@@ -256,17 +256,12 @@ const Excute = async function(User, pckUsername, TargetUsername, Usernames, slee
 
 console.log(chalk`
   {bold.cyan
-  —————————————————— [INFORMATION] ————————————————————
-
-  [?] {bold.green FFTauto | Using Account/User Target!}
-
-  ——————————————————  [THANKS TO]  ————————————————————
-  [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  [✓] FIXING & TESTING BY SYNTAX (@officialputu_id)
-  [✓]         REEDIT BY SANDRO.PUTRAA
+  —————————————————— [INI FFT IG] ————————————————————
+  ——————————————————  [THANKS TO]  ———————————————————    
   [✓] CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
   [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
-  —————————————————————————————————————————————————————
+  —————————————[RECODE BY KRISNAGANSS]————————————————
+  ————————————————————————————————————————————————————
   What's new?
   1. Input Target/delay Manual (ITTYW)
   2. Auto Check Followers 
